@@ -5,6 +5,7 @@ I'm a Business Analytics student at California State University, Northridge, gra
 I'm currently seeking **Analytics Engineer** roles where I can turn messy data into clear business insights.
 
 ---
+
 ## Writing
 
 - [What I Actually Learned Adding Terraform to My Data Pipeline](/posts/terraform-learning)
@@ -13,7 +14,7 @@ I'm currently seeking **Analytics Engineer** roles where I can turn messy data i
 
 **Transformation & Modeling:** dbt (Certified), SQL, Python
 
-**Cloud & Infrastructure:** GCP (BigQuery, GCS, Compute Engine, Cloud Run), Docker, GitHub Actions
+**Cloud & Infrastructure:** GCP (BigQuery, GCS, Compute Engine, Cloud Run), Terraform/OpenTofu, Docker, Github Actions
 
 **Orchestration:** Dagster, Airbyte
 
@@ -26,7 +27,7 @@ I'm currently seeking **Analytics Engineer** roles where I can turn messy data i
 ### E-Store Analytics
 *End-to-end analytics pipeline processing 400M+ e-commerce events*
 
-Built a production-grade system from ingestion through visualization: automated data loading from Cloud Storage to BigQuery, Dagster orchestration, and dbt transformations. The analytics layer includes RFM customer segmentation, churn analysis, and conversion funnel metrics—the kind of business intelligence that drives retention and marketing decisions. CI/CD via GitHub Actions handles automated testing and deployment.
+Built a production-grade system from ingestion through visualization: automated data loading from Cloud Storage to BigQuery, Dagster orchestration, dbt transformations, and Terraform for infrastructure provisioning. The analytics layer includes RFM customer segmentation, churn analysis, and conversion funnel metrics. CI/CD via GitHub Actions handles automated testing and deployment.
 
 [GitHub →](https://github.com/vbalalian/estore-analytics)
 
@@ -35,7 +36,7 @@ Built a production-grade system from ingestion through visualization: automated 
 ### Yelp Restaurant Analytics
 *Predictive modeling for restaurant ratings*
 
-Engineered 31 features from the Yelp Open Dataset using dbt, including reviewer behavior patterns, check-in trends, and geographic context. Tested whether sentiment analysis improved prediction accuracy and found that geographic features already captured competitive positioning signals—a useful lesson in avoiding redundant complexity.
+Engineered 31 features from the Yelp Open Dataset using dbt, including reviewer behavior patterns, check-in trends, and geographic context. Tested whether sentiment analysis improved prediction accuracy and found that geographic features already captured competitive positioning signals, a useful lesson in avoiding redundant complexity.
 
 [GitHub →](https://github.com/vbalalian/three-gits)
 
@@ -53,8 +54,8 @@ Developed a Python tool using Cloud Run, Cloud Scheduler, BigQuery, and Discord 
 ## Education
 
 **B.S. Business Analytics**  
-California State University, Northridge — May 2026  
-GPA: 3.42
+California State University, Northridge - May 2026  
+GPA: 3.43
 
 Key coursework: Machine Learning, Predictive Analytics, Data Visualization, Data Analysis & Modeling
 
@@ -62,9 +63,9 @@ Key coursework: Machine Learning, Predictive Analytics, Data Visualization, Data
 
 ## Certifications
 
-**dbt Developer** — dbt Labs, December 2025
+**dbt Developer** - dbt Labs, December 2025
 
-**Google Data Analytics** — Coursera, February 2023
+**Google Data Analytics** - Coursera, February 2023
 
 ---
 
