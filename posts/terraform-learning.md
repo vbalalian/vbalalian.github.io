@@ -1,3 +1,9 @@
+---
+layout: post
+---
+
+# What I Actually Learned...
+
 # What I Actually Learned Adding Terraform to My Data Pipeline
 
 I put off learning Terraform for months. It seemed like one of those tools that would require weeks of study before I could do anything useful. Infrastructure-as-code sounded like a concept that would be hard to fully grasp.
