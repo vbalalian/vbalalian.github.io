@@ -4,4 +4,4 @@ plugins:
 title: Vincent Balalian
 logo: /images/profile-photo.png
 description: Analytics engineering student. Building production pipelines.
-google_analytics: ${{ secrets.GOOGLE_ANALYTICS_TRACKING_ID }}
+google_analytics: G-8Y22VYLQMR
