@@ -2,9 +2,12 @@
 
 I'm a Business Analytics student at California State University, Northridge, graduating in May 2026. I build end-to-end data pipelines and analytics systems using the modern data stack.
 
-I'm currently seeking **Analytics Engineer** and **Business Analyst** roles where I can turn messy data into clear business insights.
+I'm currently seeking **Analytics Engineer** roles where I can turn messy data into clear business insights.
 
 ---
+## Writing
+
+- [What I Actually Learned Adding Terraform to My Data Pipeline](/posts/terraform-learning)
 
 ## What I Work With
 
