@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# What I Actually Learned...
-
 # What I Actually Learned Adding Terraform to My Data Pipeline
 
 I put off learning Terraform for months. It seemed like one of those tools that would require weeks of study before I could do anything useful. Infrastructure-as-code sounded like a concept that would be hard to fully grasp.
@@ -63,5 +61,3 @@ Right now they're functionally identical: same syntax, same providers, same work
 For a portfolio project it doesn't matter much. But I'd rather build habits on the tool without licensing question marks. So going forward, it's OpenTofu.
 
 ---
-
-[Back to portfolio](/)
