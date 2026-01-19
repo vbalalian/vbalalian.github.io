@@ -60,4 +60,3 @@ Right now they're functionally identical: same syntax, same providers, same work
 
 For a portfolio project it doesn't matter much. But I'd rather build habits on the tool without licensing question marks. So going forward, it's OpenTofu.
 
----
